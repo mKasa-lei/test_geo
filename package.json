@@ -6,7 +6,7 @@
   "author": "m.kasa <m.kasa@inside.tworks.co.jp>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "d3": "^5.15.0",
     "parcel": "^1.12.4"
   }
